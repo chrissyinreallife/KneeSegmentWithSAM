@@ -5,12 +5,19 @@ The recently proposed Segment Anything Model (SAM) is a powerful tool for image 
 
 <img src="https://github.com/chrissyinreallife/KneeSegmentWithSAM/assets/143875903/58e0aacc-7007-42ab-9a2b-1f34494b8aec" width="50%" alt="fig_hor">
 
-**Prerequisites**
+## **Prerequisites**
 
 Before running the scripts included in this project, ensure you have the following prerequisites installed and properly configured:
 
-NiftyReg： http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg
-Download NiftyReg: Visit http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg_install and download the latest version.
-Compile NiftyReg: Follow the compilation instructions provided in the repository. Ensure you meet all the necessary dependencies.
+**Installing NiftyReg:** A software package for efficient image registration, required for alignment and transformation tasks.
+**Download NiftyReg**: Visit http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg_install and download the latest version.
+**Compile NiftyReg**: Follow the compilation instructions provided in the repository. Ensure you meet all the necessary dependencies.
 
-Installing Segment Anything (SAM) https://github.com/facebookresearch/segment-anything 
+**Installing Segment Anything (SAM):** A versatile tool for image segmentation, capable of segmenting a wide variety of objects in images.
+**Download SAM**: Access the SAM tool from its official source. https://github.com/facebookresearch/segment-anything 
+**Installation Instructions**: Follow the detailed installation instructions provided by SAM.
+
+
+## **Support**
+
+For issues, questions, or contributions, please open an issue on this repository or contact the project maintainer directly.
