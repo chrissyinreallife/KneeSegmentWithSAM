@@ -6,6 +6,5 @@ The recently proposed Segment Anything Model (SAM) is a powerful tool for image 
 <img src="https://github.com/chrissyinreallife/KneeSegmentWithSAM/assets/143875903/58e0aacc-7007-42ab-9a2b-1f34494b8aec" width="50%" alt="fig_hor">
 
 
-1. NiftyReg
-2. Segment Anything Model (SAM)
-3. 
+1. NiftyReg： http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg
+2. Segment Anything Model(SAM)：https://github.com/facebookresearch/segment-anything 
