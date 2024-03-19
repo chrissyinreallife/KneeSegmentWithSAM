@@ -21,7 +21,6 @@ Before running the scripts included in this project, ensure you have the followi
 
 2.Installation Instructions: Follow the detailed installation instructions provided by SAM.
 
-
 ## **Support**
 
 For issues, questions, or contributions, please open an issue on this repository or contact the project maintainer directly.
