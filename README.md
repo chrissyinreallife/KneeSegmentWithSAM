@@ -11,15 +11,15 @@ Before running the scripts included in this project, ensure you have the followi
 
 **Installing NiftyReg:** A software package for efficient image registration, required for alignment and transformation tasks.
 
-1.**Download NiftyReg**: Visit http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg_install and download the latest version.
+1.Download NiftyReg: Visit http://cmictig.cs.ucl.ac.uk/wiki/index.php/NiftyReg_install and download the latest version.
 
-2.**Compile NiftyReg**: Follow the compilation instructions provided in the repository. Ensure you meet all the necessary dependencies.
+2.Compile NiftyReg: Follow the compilation instructions provided in the repository. Ensure you meet all the necessary dependencies.
 
 **Installing Segment Anything (SAM):** A versatile tool for image segmentation, capable of segmenting a wide variety of objects in images.
 
-1.**Download SAM**: Access the SAM tool from its official source. https://github.com/facebookresearch/segment-anything 
+1.Download SAM: Access the SAM tool from its official source. https://github.com/facebookresearch/segment-anything 
 
-2.**Installation Instructions**: Follow the detailed installation instructions provided by SAM.
+2.Installation Instructions: Follow the detailed installation instructions provided by SAM.
 
 
 ## **Support**
